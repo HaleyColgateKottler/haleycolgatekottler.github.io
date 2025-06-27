@@ -36,7 +36,7 @@
   ======================================================== -->
 </head>
 
-<body class="index-page">
+<body class="starter-page-page">
 
   <header id="header" class="header d-flex align-items-center sticky-top">
     <div class="header-container container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
@@ -44,14 +44,34 @@
       <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.webp" alt=""> -->
-        <h1 class="sitename">Haley Colgate Kottler</h1>
+        <h1 class="sitename">EasyFolio</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#hero" class="active">Home</a></li>
+          <li><a href="#hero">Home</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#resume">Resume</a></li>
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#services">Services</a></li>
+          <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="#">Dropdown 1</a></li>
+              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                <ul>
+                  <li><a href="#">Deep Dropdown 1</a></li>
+                  <li><a href="#">Deep Dropdown 2</a></li>
+                  <li><a href="#">Deep Dropdown 3</a></li>
+                  <li><a href="#">Deep Dropdown 4</a></li>
+                  <li><a href="#">Deep Dropdown 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Dropdown 2</a></li>
+              <li><a href="#">Dropdown 3</a></li>
+              <li><a href="#">Dropdown 4</a></li>
+            </ul>
+          </li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
@@ -68,70 +88,47 @@
 
   <main class="main">
 
-    <!-- About Section -->
-    <section id="about" class="about section light-background">
-
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row align-items-center">
-          <div class="col-lg-6 position-relative" data-aos="fade-right" data-aos-delay="200">
-            <div class="about-image">
-              <img src="assets/img/profile/headshot.jpg" alt="Profile Image" class="img-fluid rounded-4" width="300" height="360">
-            </div>
-          </div>
-
-          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="300">
-            <div class="about-content">
-              <span class="subtitle">About Me</span>
-
-              <h2>Data Scientist &amp; Statistician</h2>
-
-              <p class="lead mb-4">I am a PhD candidate in mathematics at the University of Wisconsin-Madison working with
-<a href="https://sites.google.com/site/amylouisecochran">Dr. Amy Cochran</a> on problems in computational psychiatry and data science, and with <a href="https://sites.google.com/wisc.edu/jose/home?authuser=0">Dr. Jose Israel Rodriguez</a> on problems in applied algebra.  I am working towards a PhD in hopes of becoming a statistician or data scientist working with a multidisciplinary team to improve client outcomes.</p>
-
-              <p class="mb-4">Currently I am a Lucidity Data Analyst Project Assistant for the <a href="https://gilmorebykovskyilab.org/">Gilmore-Bykovskyi Lab</a> in Emergency Medicine. I manage, clean, and analyze data sets related to memory changes and dementia in older adults.
-</p>
-              <p class="mb-4">Prior to moving to Wisconsin, I graduated from Colorado College in 2020 with a bachelors degree in mathematics.  My time at a liberal arts institution led to an interest in how a cross-disciplinary framing can improve student learning and engagement, especially in introductory courses required by other majors.  My thesis use Markov Chain Monte Carlo for ensemble analysis of congressional voting district maps in Colorado.
-</p>
-
-              <div class="personal-info">
-                <div class="row g-4">
-                  <div class="col-6">
-                    <div class="info-item">
-                      <span class="label">Name</span>
-                      <span class="value">Haley Colgate Kottler</span>
-                    </div>
-                  </div>
-
-                  <div class="col-6">
-                    <div class="info-item">
-                      <span class="label">Phone</span>
-                      <span class="value">+801 529 6055</span>
-                    </div>
-                  </div>
-
-                  <div class="col-6">
-                    <div class="info-item">
-                      <span class="label">Expected graduation</span>
-                      <span class="value">May 2026</span>
-                    </div>
-                  </div>
-
-                  <div class="col-6">
-                    <div class="info-item">
-                      <span class="label">Email</span>
-                      <span class="value">haleycolgate@gmail.com</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
+    <!-- Page Title -->
+    <div class="page-title">
+      <div class="breadcrumbs">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="#"><i class="bi bi-house"></i> Home</a></li>
+            <li class="breadcrumb-item"><a href="#">Category</a></li>
+            <li class="breadcrumb-item active current">Starter Page</li>
+          </ol>
+        </nav>
       </div>
 
-    </section><!-- /About Section -->
+      <div class="title-wrapper">
+        <h1>Haley Colgate Kottler</h1>
+        <p>Email: haley dot kottler at wisc dot edu</p>
+        <p>I am a graduate student in mathematics at the University of Wisconsin-Madison working with
+<a href="https://sites.google.com/site/amylouisecochran">Dr. Amy Cochran</a> on problems in computational psychiatry and data science, and with <a href="https://sites.google.com/wisc.edu/jose/home?authuser=0">Dr. Jose Israel Rodriguez</a> on problems in applied algebra.  I am working towards a PhD in hopes of becoming a statistician or data scientist working with a multidisciplinary team to improve client outcomes.</p>
+
+<p>Currently I am a Lucidity Data Analyst Project Assistant for the <a href="https://gilmorebykovskyilab.org/">Gilmore-Bykovskyi Lab</a> in Emergency Medicine. I manage, clean, and analyze data sets related to memory changes and dementia in older adults.</p>
+
+<p>Prior to moving to Wisconsin, I graduated from Colorado College in 2020 with a bachelors degree in mathematics.  My time at a liberal arts institution led to an interest in how a cross-disciplinary framing can improve student learning and engagement, especially in introductory courses required by other majors.  My thesis use Markov Chain Monte Carlo for ensemble analysis of congressional voting district maps in Colorado.</p>
+      </div>
+    </div><!-- End Page Title -->
+
+    <!-- Starter Section Section -->
+    <section id="starter-section" class="starter-section section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Starter Section</h2>
+        <div class="title-shape">
+          <svg viewBox="0 0 200 20" xmlns="http://www.w3.org/2000/svg">
+            <path d="M 0,10 C 40,0 60,20 100,10 C 140,0 160,20 200,10" fill="none" stroke="currentColor" stroke-width="2"></path>
+          </svg>
+        </div>
+        <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum qui dolorem</p>
+      </div><!-- End Section Title -->
+
+
+    </section><!-- /Starter Section Section -->
+
   </main>
 
   <footer id="footer" class="footer">
