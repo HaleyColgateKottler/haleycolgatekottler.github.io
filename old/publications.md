@@ -15,10 +15,6 @@ Batch Codes from Affine Cartesian Codes and Quotient Spaces, by Travis Baumbaugh
 
 # Preprint:
 
-A simplified and robust proxy-based approach for overcoming unmeasured confounding in EHR studies, by **Haley Colgate Kottler** and Amy Cochran. June 13, 2025. [https://arxiv.org/abs/2506.12177](https://arxiv.org/abs/2506.12177)
-
-Implementation of Estimating Gaussian Mixtures Using Sparse Polynomial Moment Systems, by **Haley Colgate Kottler**, Julia Lindberg, and Jose Israel Rodriguez. February 11, 2025. [https://arxiv.org/abs/2502.07648](https://arxiv.org/abs/2502.07648)
-
 Integrating Local Learning into the Two-Stage Markov Task to Separate Model-Based from Model-Free Learning. by Peizhe Li, Jimmy Vineyard, Seungyeon Oh, Jack Maloney, Amy Cochran, and **Haley Colgate Kottler**.  May 12, 2024. [https://osf.io/preprints/psyarxiv/hmt2a](https://osf.io/preprints/psyarxiv/hmt2a)
 
 # Software:
@@ -29,4 +25,6 @@ GMMParameterEstimation.jl is a Julia package created by **Haley Kottler**, Julia
 
 Characterizing Lucid Episodes in Advanced Dementia: A Prospective Study, by Andrea Gilmore-Bykovskyi, **Haley Kottler**, Amy Cochran, Kayla Dillon, Alison Coulson, Clark Benson, Jess Fehland, and Kimberly Mueller
 
-Latent Class Analysis for Data Driven Identification of Lucid Episodes in Advanced Dementia, by **Haley Colgate Kottler**, Amy Cochran, and Andrea Gilmore-Bykovskyi
+Overcoming Unmeasured Confounding with Proxy Variables, by **Haley Kottler** and Amy Cochran.
+
+Implementation of Estimating Gaussian Mixtures Using Sparse Polynomial Moment Systems, by **Haley Kottler**, Julia Lindberg, and Jose Israel Rodriguez.

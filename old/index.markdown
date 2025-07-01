@@ -3,21 +3,14 @@ layout: home
 title: Haley Colgate Kottler
 ---
 
-# Haley Colgate Kottler
-
 ![Haley Colgate Kottler](/assets/images/headshot.jpg)
 
-
-## Contact Information
-
-Email: haleycolgate@gmail.com
+Email: haley dot kottler at wisc dot edu
 
 Office: Van Vleck 416
 
-## Introduction
-
 I am a graduate student in mathematics at the University of Wisconsin-Madison working with
-<a href="https://sites.google.com/site/amylouisecochran">Dr. Amy Cochran</a> on problems in computational psychiatry and data science, and with <a href="https://sites.google.com/wisc.edu/jose/home?authuser=0">Dr. Jose Israel Rodriguez</a> on problems in applied algebra.  I am working towards a PhD in hopes of becoming a statistician or data scientist working with medical practitioners to improve patient outcomes.
+<a href="https://sites.google.com/site/amylouisecochran">Dr. Amy Cochran</a> on problems in computational psychiatry and data science, and with <a href="https://sites.google.com/wisc.edu/jose/home?authuser=0">Dr. Jose Israel Rodriguez</a> on problems in applied algebra.  I am working towards a PhD in hopes of becoming a statistician or data scientist working with a multidisciplinary team to improve client outcomes.
 
 Currently I am a Lucidity Data Analyst Project Assistant for the <a href="https://gilmorebykovskyilab.org/">Gilmore-Bykovskyi Lab</a> in Emergency Medicine. I manage, clean, and analyze data sets related to memory changes and dementia in older adults.
 
