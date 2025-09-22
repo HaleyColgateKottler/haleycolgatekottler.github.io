@@ -24,7 +24,7 @@ Math 221: Calculus and Analytic Geometry 1 - Fall 2020 - UW Madison
 
 Coordinator, problem writer and grader for the Mega Math Meet at UW-Madison, 2022-present.
 
-Coordinator for Undergraduate Gender Minorities in Math at Wisconsin, Fall 2023 - Spring 2025.  We are the undergraduate chapter of the AWM at UW-Madison.
+Coordinator for UGMMAW, Fall 2023 - Spring 2025.  We are the undergraduate chapter of the AWM at UW-Madison.
 
 Student representative for the Graduate Program Committee at UW-Madison, Fall 2022 - Spring 2024.
 
@@ -32,6 +32,6 @@ Graduate Peer Mentor within the Math PhD Program at UW-Madison, Fall 2023 - Fall
 
 Panelist and mentor for Graduate Teaching Assistant training at UW-Madison, Fall 2023.
 
-Invited guest speaker for Badger Precollege on uses of mathematics in social justice at UW-Madison, Summer 2023.
+Invited guest speaker for Badger Precollege on uses of mathematics in the real world at UW-Madison, Summer 2023.
 
 Career session co-presenter for Expanding Your Horizons Madison at UW-Madison, Spring 2023.
