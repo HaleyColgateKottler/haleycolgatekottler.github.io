@@ -5,7 +5,9 @@ title: Publications
 
 # Published:
 
-Characterizing Lucid Episodes in Advanced Dementia: A Prospective Study  
+Method of moments for Gaussian mixtures: Implementation and benchmarks. by **Haley Kottler**, Julia Lindberg, and Jose Israel Rodriguez. ISSAC '25: Proceedings of the 2025 International Symposium on Symbolic and Algebraic Computation. [https://doi.org/10.1145/3747199.374755](https://doi.org/10.1145/3747199.374755)
+
+A prospective observational study of lucid episodes in advanced dementia 
 Andrea Gilmore-Bykovskyi, **Haley Kottler**, Amy Cochran, Kayla Dillon, Alison Coulson, Clark Benson, Jess Fehland, and Kimberly Mueller  
 The Gerontologist  
 August 1, 2025  
@@ -42,11 +44,6 @@ A simplified and robust proxy-based approach for overcoming unmeasured confoundi
 **Haley Colgate Kottler** and Amy Cochran  
 June 13, 2025  
 [https://arxiv.org/abs/2506.12177](https://arxiv.org/abs/2506.12177)  
-
-Implementation of Estimating Gaussian Mixtures Using Sparse Polynomial Moment Systems  
-**Haley Colgate Kottler**, Julia Lindberg, and Jose Israel Rodriguez  
-February 11, 2025  
-[https://arxiv.org/abs/2502.07648](https://arxiv.org/abs/2502.07648)  
 
 # Software:  
 
